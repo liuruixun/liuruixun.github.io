@@ -41,7 +41,7 @@ Kaiyu Li, **Ruixun Liu**, Xiangyong Cao, Xueru Bai, Feng Zhou, Deyu Meng, Zhi Wa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/SegEarth-OV.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/transition.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://openaccess.thecvf.com/content/CVPR2024W/L3DIVU/html/Wang_Class_Similarity_Transition_Decoupling_Class_Similarities_and_Imbalance_from_Generalized_CVPRW_2024_paper.html)
