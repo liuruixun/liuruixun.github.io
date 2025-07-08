@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm building my homepage now
 
-My research interest includes neural machine translation and computer vision. I have published more than 4 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes MLLM and Embodied AI. I have published more than 2 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -70,4 +69,4 @@ Shihong Wang\*, **Ruixun Liu**\*, Kaiyu Li\*, Jiawei Jiang, Xiangyong Cao
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
