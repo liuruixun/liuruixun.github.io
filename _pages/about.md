@@ -36,20 +36,35 @@ My research interest includes neural machine translation and computer vision. I 
 
 Kaiyu Li, **Ruixun Liu**, Xiangyong Cao, Xueru Bai, Feng Zhou, Deyu Meng, Zhi Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WTleRV8AAAAJ&citation_for_view=WTleRV8AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WTleRV8AAAAJ&citation_for_view=WTleRV8AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='WTleRV8AAAAJ:u-x6o8ySG0sC'></span></strong>
 - The paper has been accepted as an Oral presentation at CVPR 2025.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/SegEarth-OV.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](https://openaccess.thecvf.com/content/CVPR2024W/L3DIVU/html/Wang_Class_Similarity_Transition_Decoupling_Class_Similarities_and_Imbalance_from_Generalized_CVPRW_2024_paper.html)
+
+Shihong Wang, **Ruixun Liu**, Kaiyu Li, Jiawei Jiang, Xiangyong Cao
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WTleRV8AAAAJ&citation_for_view=WTleRV8AAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='WTleRV8AAAAJ:d1gkVwhDpl0C'></span></strong>
+- The method proposed in this paper got the second place in CVPR2024-OpenEarthMap Land Cover Mapping Few-Shot Challenge.
+- The paper has been accepted as an Oral presentation at CVPR 2024 Workshop.
+</div>
+</div>
+
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* National Scholarship.
+- *2024.7* First Prize in ROBOCON 2024.
+- *2023.5* Finalist of 2021 ICM/MCM, 2021
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2026.06 (now)*, Automation, Minor in Information Engineering, Xi'an Jiaotong University. 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
