@@ -25,7 +25,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR 2025 (**Oral, top 3.3%**). 
 - *2024.04*: &nbsp;🎉 One paper accepted by CVPR 2024 Workshop (**Oral**).
-- *2024.04*: &nbsp; Obtaining second place in CVPR2024-OpenEarthMap Land Cover Mapping Few-Shot Challenge.
+- *2024.04*: &nbsp; Obtaining **second place** in CVPR2024-OpenEarthMap Land Cover Mapping Few-Shot Challenge.
 
 # 📝 Publications 
 
@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 Kaiyu Li, **Ruixun Liu**, Xiangyong Cao, Xueru Bai, Feng Zhou, Deyu Meng, Zhi Wang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WTleRV8AAAAJ&citation_for_view=WTleRV8AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- The paper has been accepted as an Oral presentation at CVPR 2025.
 </div>
 </div>
 
