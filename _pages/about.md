@@ -60,15 +60,14 @@ Shihong Wang*, **Ruixun Liu***, Kaiyu Li*, Jiawei Jiang, Xiangyong Cao
 # 🎖 Honors and Awards
 - *2024.12* National Scholarship.
 - *2024.7* First Prize in ROBOCON 2024.
-- *2023.5* Finalist of 2021 ICM/MCM, 2021
+- *2023.5* Finalist of 2023 ICM/MCM, 2023
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, Automation, Minor in Information Engineering, Xi'an Jiaotong University. 
 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
