@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR 2025 (**Oral**). 
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR 2025 (**Oral, top 3.3%**). 
 - *2024.04*: &nbsp;🎉🎉 One paper accepted by CVPR 2024 Workshop (**Oral**). 
 
 # 📝 Publications 
