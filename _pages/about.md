@@ -34,7 +34,7 @@ My research interest includes MLLM and Embodied AI. I have published more than s
 
 [ZoomEarth: Active Perception for Ultra-High-Resolution Geospatial Vision-Language Tasks](https://arxiv.org/abs/2511.12267)
 
-**Ruixun Liu**, Bowen Fu, Jiayi Song, Kaiyu Li, Wanchen Li, Lanxuan Xue, Hui Qiao, Weizhan Zhang, Deyu Meng, Xiangyong Cao
+**Ruixun Liu**\*, Bowen Fu\*, Jiayi Song, Kaiyu Li, Wanchen Li, Lanxuan Xue, Hui Qiao, Weizhan Zhang, Deyu Meng, Xiangyong Cao
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WTleRV8AAAAJ&citation_for_view=WTleRV8AAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='WTleRV8AAAAJ:Y0pCki6q_DkC'></span></strong>
 - The paper has been accepted by CVPR 2026.
