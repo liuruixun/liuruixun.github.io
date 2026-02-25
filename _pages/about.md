@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My research interest includes MLLM and Embodied AI. I have published more than 2 papers at the top international AI conferences with total  <a href='https://scholar.google.com/citations?user=WTleRV8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes MLLM and Embodied AI. I have published more than several papers at the top international AI conferences with total  <a href='https://scholar.google.com/citations?user=WTleRV8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -77,7 +77,7 @@ Shihong Wang\*, **Ruixun Liu**\*, Kaiyu Li\*, Jiawei Jiang, Xiangyong Cao
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, Automation, Minor in Information Engineering, Xi'an Jiaotong University. 
-
+- *2026.09 - *, PHD, Peking University. 
 
 # 💬 Invited Talks
 
