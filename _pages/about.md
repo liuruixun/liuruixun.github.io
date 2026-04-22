@@ -22,7 +22,7 @@ My research interest includes MLLM and Embodied AI. I have published more than s
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉 One paper accepted by CVPR 2026 (**Hightlight**). 
+- *2026.02*: &nbsp;🎉 One paper accepted by CVPR 2026 (**Hightlight**). 
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR 2025 (**Oral, top 3.3%**). 
 - *2024.04*: &nbsp;🎉 One paper accepted by CVPR 2024 Workshop (**Oral**).
 - *2024.04*: &nbsp; Obtaining **second place** in CVPR2024-OpenEarthMap Land Cover Mapping Few-Shot Challenge.
@@ -37,7 +37,7 @@ My research interest includes MLLM and Embodied AI. I have published more than s
 **Ruixun Liu**\*, Bowen Fu\*, Jiayi Song, Kaiyu Li, Wanchen Li, Lanxuan Xue, Hui Qiao, Weizhan Zhang, Deyu Meng, Xiangyong Cao
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WTleRV8AAAAJ&citation_for_view=WTleRV8AAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='WTleRV8AAAAJ:Y0pCki6q_DkC'></span></strong>
-- The paper has been accepted by CVPR 2026.
+- The paper has been accepted as Hightlight in CVPR 2026.
 </div>
 </div>
 
