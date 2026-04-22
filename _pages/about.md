@@ -29,7 +29,7 @@ My research interest includes MLLM and Embodied AI. I have published more than s
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/ZoomEarth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Highlight</div><img src='images/ZoomEarth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ZoomEarth: Active Perception for Ultra-High-Resolution Geospatial Vision-Language Tasks](https://arxiv.org/abs/2511.12267)
