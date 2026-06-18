@@ -22,6 +22,7 @@ My research interest includes MLLM and Embodied AI. I have published more than s
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉 One paper accepted by ECCV 2026. 
 - *2026.02*: &nbsp;🎉 One paper accepted by CVPR 2026 (**Hightlight**). 
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR 2025 (**Oral, top 3.3%**). 
 - *2024.04*: &nbsp;🎉 One paper accepted by CVPR 2024 Workshop (**Oral**).
