@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My research interest includes MLLM and Embodied AI. I have published more than several papers at the top international AI conferences with total  <a href='https://scholar.google.com/citations?user=WTleRV8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes MLLM and Embodied AI. I have published more than several papers at the top international AI conferences with total  <a href='https://scholar.google.com/citations?user=WTleRV8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am now a research intern in Qwen Omni.
 
 
 # 🔥 News
@@ -29,6 +29,20 @@ My research interest includes MLLM and Embodied AI. I have published more than s
 - *2024.04*: &nbsp; Obtaining **second place** in CVPR2024-OpenEarthMap Land Cover Mapping Few-Shot Challenge.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 Potser</div><img src='images/CVSBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CVSBench: A Comprehensive Benchmark for Cross-view Spatial Reasoning and Dreaming](https://arxiv.org/pdf/2606.22476)
+
+**Ruixun Liu**\*, Lingyu Zhang\*, Lanxuan Xue, Kaiyu Li, Bowen Fu, Xiangyong Cao
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WTleRV8AAAAJ&citation_for_view=WTleRV8AAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='WTleRV8AAAAJ:Y0pCki6q_DkC'></span></strong>
+- The paper has been accepted as Poster in ECCV 2026.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Highlight</div><img src='images/ZoomEarth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
