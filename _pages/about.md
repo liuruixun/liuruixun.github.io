@@ -87,7 +87,7 @@ Shihong Wang\*, **Ruixun Liu**\*, Kaiyu Li\*, Jiawei Jiang, Xiangyong Cao
 
 # 🎖 Honors and Awards
 - *2024.12* National Scholarship.
-- *2024.7* First Prize in ROBOCON 2024.
+- *2024.7* First Prize in ROBOCON 2024.jia
 - *2023.5* Finalist of 2023 ICM/MCM.
 
 # 📖 Educations
