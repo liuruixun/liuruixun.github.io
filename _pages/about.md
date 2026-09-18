@@ -98,4 +98,4 @@ Shihong Wang\*, **Ruixun Liu**\*, Kaiyu Li\*, Jiawei Jiang, Xiangyong Cao
 
 
 # 💻 Internships
-
+- *2026.6* Qwen Omni Team, Alibaba Group
