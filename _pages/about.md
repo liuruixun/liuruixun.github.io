@@ -98,4 +98,5 @@ Shihong Wang\*, **Ruixun Liu**\*, Kaiyu Li\*, Jiawei Jiang, Xiangyong Cao
 
 
 # 💻 Internships
+- *2025.1* MARS Lab, Shanghai Qizhi Institute
 - *2026.6* Qwen Omni Team, Alibaba Group
