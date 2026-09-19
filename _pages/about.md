@@ -91,8 +91,8 @@ Shihong Wang\*, **Ruixun Liu**\*, Kaiyu Li\*, Jiawei Jiang, Xiangyong Cao
 - *2023.5* Finalist of 2023 ICM/MCM.
 
 # 📖 Educations
-- *2022.09 - 2026.06 (now)*, Automation, Minor in Information Engineering, Xi'an Jiaotong University. 
-- *2026.09 - *, PHD, Peking University. 
+- *2022.09 - 2026.06*, Automation, Minor in Information Engineering, Xi'an Jiaotong University. 
+- *2026.09 - now*, PHD, Peking University. 
 
 # 💬 Invited Talks
 
